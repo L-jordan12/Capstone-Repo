@@ -22,12 +22,12 @@ I believe every single one of my projects matches the schools mission statement 
 
 Link to Repo: https://github.com/dsnyder8/WebDevAssignment4
 
-## Trivia Blast (With Modular Refactoring)
+## Trivia Blast (With Modular Refactoring) Overview
 
 Link to Repo: https://github.com/L-jordan12/Assignment3WebDev
 Link to Game:
 
-## Alpine Drop
+## Alpine Drop Overview
 
 Link to Repo:
 Link to Game: ITCH.io
