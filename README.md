@@ -1,7 +1,9 @@
 # Capstone Portfolio
 
-### Course: CISC 480 - Senior Capstone
+#### Course: CISC 480 - Senior Capstone
 
-### Name: Luke Jordan
+#### Name: Luke Jordan
 
-### Date: May 19th, 2026
+#### Date: May 19th, 2026
+
+## Overview / Mission Statement
