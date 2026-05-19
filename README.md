@@ -20,14 +20,17 @@ I believe every single one of my projects matches the schools mission statement 
 
 ## Fitness API Overview
 
-Link to Repo: https://github.com/dsnyder8/WebDevAssignment4
+- Link to Repo: https://github.com/dsnyder8/WebDevAssignment4
+
+Overview:
+The first part of this project involved building a Fitness API using a RESTful backend built with Node.js, Express, and MongoDB. This API provides a system for managing a user's fitness data, focusing on individual exercises and daily/weekly routines for a more personalized workout experience. This backend served as the foundation for the second part of the project. The second part involved making the Fitness API full-stack by building a working web application centered around exercise management and weekly workout scheduling. The application allows users to register and log in securely using JWT-based authentication, and once authenticated, users can create, edit, delete, and view their workout exercises. Along with these CRUD features, a search bar allows users to find specific exercises by description, and a filter dropdown allows users to sort exercises by day of the week or exercise category. Overall, the application supports all three backend models and uses JavaScript and HTML to display everything on the front end. This project matches many different parts of the Universitys Mission statement. The one thing that sticks out to me is, building a full-stack application that required Critical thinking, in order to make intentional decisions that benefited the end product.
 
 ## Trivia Blast (With Modular Refactoring) Overview
 
-Link to Repo: https://github.com/L-jordan12/Assignment3WebDev
-Link to Game:
+- Link to Repo: https://github.com/L-jordan12/Assignment3WebDev
+- Link to Game:
 
 ## Alpine Drop Overview
 
-Link to Repo:
-Link to Game: ITCH.io
+- Link to Repo:
+- Link to Game: ITCH.io
