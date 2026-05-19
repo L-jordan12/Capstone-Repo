@@ -17,3 +17,17 @@ This portfolio contains three projects that I have worked on throughout my time 
 Mission Statement of the University of St. Thomas: "Inspired by Catholic intellectual tradition, the University of St. Thomas educates students to be morally responsible leaders who think critically, act wisely, and work skillfully to advance the common good."
 
 I believe every single one of my projects matches the schools mission statement as all of them match different parts of it. How each project relates to the mission statement will be talked about down below.
+
+## Fitness API Overview
+
+Link to Repo: https://github.com/dsnyder8/WebDevAssignment4
+
+## Trivia Blast (With Modular Refactoring)
+
+Link to Repo: https://github.com/L-jordan12/Assignment3WebDev
+Link to Game:
+
+## Alpine Drop
+
+Link to Repo:
+Link to Game: ITCH.io
